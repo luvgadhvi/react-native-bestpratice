@@ -1,4 +1,4 @@
-# react-native-bestpratice
+# React Native Bestpratice
 In this readme file, you will find the best practice recommended to develop a react native app.
 
 ## Folder Structure & Architecture
